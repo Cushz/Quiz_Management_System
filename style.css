@@ -1,0 +1,39 @@
+.answerItem
+{
+    display: none;
+}
+.questionInput, .feedback
+{
+    width:80% ;
+    height:5em;
+    margin-bottom: 1em;
+}
+.mark
+{
+    margin-bottom: 1em;
+}
+.row
+{
+    margin-top:1em;
+    padding:1em;
+}
+
+.col > input[type=text]
+{
+    margin-bottom:0.6em;
+}
+
+.far
+{
+    color:white;
+    text-decoration: none;
+}
+
+.my-card
+{
+    margin-top:9em;
+}
+.my-edit-card
+{
+    margin-top:1em;
+}
